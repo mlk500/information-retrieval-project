@@ -11,4 +11,4 @@
 * Got 50 files from 3 chosen directories.
 * Performed pre-processing, created a dataframe representation of tokens/files, labeled each file with the query of its original directory.
 * Ran Kmeans clustering algorithm.
-** In each task, we provided an analysis for the result.
+#### In each task, we provided an analysis for the result.
